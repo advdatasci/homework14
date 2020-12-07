@@ -1,0 +1,24 @@
+---
+title: "Homework 14"
+output: html_document
+author: "Your Name"
+---
+
+
+## Data
+
+Read the case study on air pollution prediction
+  - https://www.opencasestudies.org/ocs-bp-air-pollution/
+  
+## Ingest and clean data
+
+Insert your code and description of how you ingested and cleaned the data
+
+## Build a predictor
+
+Build a predictor of PM2.5 based on location, education, and population.
+
+## Evaluate CMAQ
+
+Do a brief analysis to see if adding the predictions from a computational physics model (variable: CMAQ) improves prediction.
+
