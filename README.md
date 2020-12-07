@@ -9,4 +9,5 @@
 6. Trade your repo with your partner (assigned by the TAs) by Thursday
 7. Write up a brief description of your partner's analysis in the form of a one page report that summarizes the approach, methods, and conclusions and commit a pdf of your write-up to their repo
 8. Look at your partner's write-up of your analysis. Does it reflect what you observed?
+9. Push your writeup to your partner's Github before: 2020/12/14 9:00AM Baltimore Time
 
